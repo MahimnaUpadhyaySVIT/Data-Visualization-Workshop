@@ -29,10 +29,6 @@ python3 -m notebook
 ```
 pip install -r requirements.txt
 ```
-
-<h2>🍰 Contribution Guidelines:</h2>
-
-  
   
 <h2>💻 Built with</h2>
 
