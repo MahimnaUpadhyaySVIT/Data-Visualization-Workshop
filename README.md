@@ -12,7 +12,7 @@
 <ol>
   <li>Clone the Git Repo:</li>
 </ol>
-<pre><code>https://github.com/MahimnaUpadhyaySVIT/Data-Visualization-Workshop.git</code></pre>
+<pre><code>git clone https://github.com/MahimnaUpadhyaySVIT/Data-Visualization-Workshop.git</code></pre>
 
 <ol start="2">
   <li>Install Jupyter Notebook:</li>
